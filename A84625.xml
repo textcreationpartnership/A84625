@@ -1,0 +1,510 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the right honourable Ferdinando Lord Fairfax, Sir Hugh Cholmley, Sir Philip Stapleton, Sir Henry Cholmley, committees of the Commons house of Parliament residing at Yorke. Together vvith a relation of all the passages at the great meeting at Yorke, on Thursday the 12. of this instant May, with the freeholders protestation inclosed in the letter from the said committee to master speaker, and ordered by the said house to be forthwith published in print. H. Elsing. Clre. Perl. [sic] de Com.</title>
+            <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84625</idno>
+            <idno type="STC">Wing F116</idno>
+            <idno type="STC">Thomason E148_4</idno>
+            <idno type="STC">ESTC R3177</idno>
+            <idno type="EEBO-CITATION">99872300</idno>
+            <idno type="PROQUEST">99872300</idno>
+            <idno type="VID">156686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156686)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the right honourable Ferdinando Lord Fairfax, Sir Hugh Cholmley, Sir Philip Stapleton, Sir Henry Cholmley, committees of the Commons house of Parliament residing at Yorke. Together vvith a relation of all the passages at the great meeting at Yorke, on Thursday the 12. of this instant May, with the freeholders protestation inclosed in the letter from the said committee to master speaker, and ordered by the said house to be forthwith published in print. H. Elsing. Clre. Perl. [sic] de Com.</title>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+                  <author>Cholmley, Henry, Sir, 1609-1666.</author>
+                  <author>Cholmley, Hugh, Sir, 1600-1657.</author>
+                  <author>Stapleton, Philip, Sir, 1603-1647.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Norton for Iohn Franke, and are to be sold next to the Kings head in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Kings most Ewcellent [sic] Maiesty the humble petition of .. affected subjects of the countie of Yorke" on p. 5.</note>
+                  <note>"His Majesties speech" p. 5 and "The Kings answer to the petition of the county at .. Yorke .." p. 7.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term>Cholmley, Henry, --  Sir, 1609-1666.</term>
+               <term>Cholmley, Hugh, --  Sir, 1600-1657.</term>
+               <term>Stapleton, Philip, --  Sir, 1603-1647.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156686:1" rendition="simple:additions"/>
+            <p>A LETTER FROM THE RIGHT HONOVRABLE <hi>Ferdinando</hi> Lord <hi>Fairfax,</hi> Sir <hi>Hugh Cholmley,</hi> Sir <hi>Philip Stapleton,</hi> Sir <hi>Henry Cholmley,</hi> Committees of the Commons houſe of Parliament reſiding at <hi>Yorke.</hi>
+            </p>
+            <p>TOGETHER, With a Relation of all the paſſages at the great meeting at <hi>Yorke,</hi> on Thurſday the 12. of this inſtant May, With the Freeholders Proteſtation incloſed in the Let<g ref="char:EOLhyphen"/>ter from the ſaid Committee to Maſter Speaker, and ordered by the ſaid Houſe to be forthwith publiſhed in Print.</p>
+            <p>
+               <hi>H. Elſing. Cler. Perl. de Com.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>A. Norton</hi> for <hi>Iohn Franke,</hi> and are to be ſold next to the Kings head in Fleet-ſtreet. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156686:2"/>
+            <pb n="1" facs="tcp:156686:2"/>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N our laſt Letter we gave you an Accompt of our firſt and ſecond waiting on the King, we writ to you then, that his Majeſty, commanded us to attend him yeſterday be<g ref="char:EOLhyphen"/>ing Thurſday, to heare what hee ſaid to the Gentlemen, Which a little before the mee<g ref="char:EOLhyphen"/>ting, he ſeconded by a particular Meſſage. Being come thither, his Majeſtie cauſed the ſeverall Meſſages betweene him, and the Parliament, mentioned in this encloſed printed Paper to be read.</p>
+            <p>This was done with much humming, and applauſe of the Kings Meſſages by ſome perſons who had placed themſelves neere about where the King ſtood. But when any thing from the Parlia<g ref="char:EOLhyphen"/>ment came to be read, with ſo much hiſſing, and reviling the Parliament, that though in reſpect, and duty to the Kings Per<g ref="char:EOLhyphen"/>ſon, we could not reſent it, as otherwiſe wee ſhould have done, yet have ſince expoſtulated, and complained of it to his Majeſtie. Some were ſo bold as to ſay openly, That the Parliament men ſhould ſet their Houſes in order, for many of them ſhould ſhort<g ref="char:EOLhyphen"/>ly have their heads of; One of which (as ſince wee are credibly informed) was one <hi>Hurſt,</hi> a ſervant to one Maſter <hi>William Crofts.</hi> In this which was ſaid by the King, you will ſee what reaſon we had to vindicate our ſelves, and therefore we immediatly repay<g ref="char:EOLhyphen"/>red to the Deanes houſe with all the other Gentlemen, and there wee tooke notice of the rough uſage we had received; Wee told them that it was neither indiſcretion nor diſobedience in us (as his Majeſty was pleaſed to call it) to deliver the Parliaments Meſſage, or to ſtay here though commanded to the contrary, ſince wee conceived no man needed to be ſatisfied in ſo cleare a caſe as
+<pb n="2" facs="tcp:156686:3"/>
+this; That every Member of each Houſe ought to obey their Commands, when they were pleaſed to employ them. But ſince his Majeſty thought fit to bid them, take heed of us, not know<g ref="char:EOLhyphen"/>ing what doctrine of diſobedience wee might preach to them under colour of obeying the Parliament, wee appealed to every man, whether we had in word or deed, in publick or in private, done any thing that became not honeſt men, and perſons employ<g ref="char:EOLhyphen"/>ed from the Parliament: That wee had communicated our In<g ref="char:EOLhyphen"/>ſtructions to his Majeſty, being that wee would avow all our A<g ref="char:EOLhyphen"/>ctions, and that we were confident it would not be ſaid, wee had tranſgreſſed them. This was very well taken and juſtified by the Countrey. Yeſterday there came divers thouſands of Free<g ref="char:EOLhyphen"/>holders to this Citie, though none but the Gentry were ſummo<g ref="char:EOLhyphen"/>ned, but receiving a Command from the King not to come to Court they forbore, and ſtayed in the Caſtle yard, yet ſent this Petition encloſed to his Majeſty, and received the Anſwer annex<g ref="char:EOLhyphen"/>ed thereunto. There was likewiſe a Committee of twelve Gen<g ref="char:EOLhyphen"/>tlemen appointed yeſternight to conſider of drawing up an An<g ref="char:EOLhyphen"/>ſwer to the Kings propoſition concerning a Guard, but nothing could be then done, becauſe it was paſt three a clocke before the Gentlemen were admitted to the King. This morning the Free<g ref="char:EOLhyphen"/>holders aſſembled againe in the Caſtleyard, and there they made this Proteſtation encloſed, of their right of voting in what con<g ref="char:EOLhyphen"/>cerneth the peace of the Countrey, as having their intereſt therein.</p>
+            <p>When we all met this morning againe at the Deanes houſe, we who are your Committees received this Meſſage by Sir <hi>Edward Stanhop,</hi> That he came from his Majeſty to command us, that we ſhould depart from this meeting, and if wee did ſtay, his Maje<g ref="char:EOLhyphen"/>ſty would judge us guilty of that he ſpake on yeſterday, which was Tampering. Notwithſtanding which Command, wee read the fourth Article of our Inſtructions to the whole Company, that being pertinent to the buſineſſe wee were then upon, and de<g ref="char:EOLhyphen"/>ſired them to conſider, whether the Parliament had not expreſſed therein ſuch a care of the Kings ſafety, that there would bee little need of Guards: Wee told them that wee had a good right of being there as Freeholders of the County, but that in obedience to the King wee would depart for this time: But whenſoever
+<pb n="3" facs="tcp:156686:3"/>
+there ſhould be occaſion of our being there in purſuance of our In<g ref="char:EOLhyphen"/>ſtructions and Commands from the Parliament, wee ſhould bee ready. The whole company received great ſatisfaction, and de<g ref="char:EOLhyphen"/>ſired a Copy of that inſtruction which wee gave them. Wee were the more willing at that time to goe from thence, becauſe wee ſhould not onely give obedience to the Kings command, which otherwiſe hee would have ſaid, wee con<g ref="char:EOLhyphen"/>ſtantly diſobeyed, but becauſe the Committee of Twelve appoin<g ref="char:EOLhyphen"/>ted yeſternight were then to withdraw, ſo that there was no<g ref="char:EOLhyphen"/>thing for the preſent for us to doe; Wee immediatly went to the King, and befought him that ſince wee were continu<g ref="char:EOLhyphen"/>ally ſo diſcountenanced by him, in the face of our Coun<g ref="char:EOLhyphen"/>ty, that hee would bee pleaſed to let us know in particu<g ref="char:EOLhyphen"/>lar wherein wee had given the occaſion, for wee otherwiſe con<g ref="char:EOLhyphen"/>ceived wee were deprived of that Liberty, which was our due in reſpect of that Intereſt wee had here. His Majeſty was pleaſed to tell us, that if wee would lay aſide that condition of Com<g ref="char:EOLhyphen"/>mittees from the Parliament, hee would not hinder us to bee there as Gentlemen of the Countrey; Wee humbly replyed, that wee could not lay that downe, nor could wee be abſent from a<g ref="char:EOLhyphen"/>ny meeting where our preſence was required, for the ſervice as Committees from the Parliament: to which his Majeſty ſaid, That indeed hee thought wee could not lay it downe, neither that it was reaſonable wee ſhould have Votes, and bee in a dou<g ref="char:EOLhyphen"/>ble Capacity. The Committee hath beene together moſt part of this day, but not agreeing: Sixe of them have drawne up this Anſwer encloſed, which they have communicated to the Gentlemen, and Freeholders. The greater part of the Gentle<g ref="char:EOLhyphen"/>men, and all the Freeholders have agreed too, and ſubſcribed it. The other ſixe have concluded upon this other Anſwer, conſent<g ref="char:EOLhyphen"/>ing to a Guard of Horſe, but this wee doe not heare, that they have gotten many names too, nor can wee get a Copie of thoſe names as yet, though theſe be very few, yet whether they can bring in any Horſe or no wee cannot yet judge. The King hath received both theſe reſolutions, which with his Anſwers to them you ſhall likewiſe have here incloſed. His Majeſty had
+<pb n="4" facs="tcp:156686:4"/>
+declared himſelfe yeſterday, that hee would raiſe that Regiment, which was Sir <hi>Robert Stricklands</hi> for his foot Guard, but he hath now laid aſide that Reſolution. The Freeholders of the Coun<g ref="char:EOLhyphen"/>ty are now newly ſummoned to attend his Majeſty about a week hence the three Rydings upon three ſeverall dayes, but for what ſervice we doe not know.</p>
+            <p>Sir, you have here a large Narrative of the paſſages at this meeting; what dangers this poore Countrey lyes under, wee humbly referre it to you to judge, not taking upon us to deliver any opinion. The buſineſſe laſted ſo long, that it hindered us from giving a more ſpeedy accompt. Sir, This is what at this time is ſent from,</p>
+            <closer>
+               <signed>Your aſſured friends and ſervants,
+<list>
+                     <item>
+                        <hi>Fer. Fairfax.</hi>
+                     </item>
+                     <item>
+                        <hi>Hu. Cholmley.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Stapleton.</hi>
+                     </item>
+                     <item>
+                        <hi>He. Cholmley.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Yorke</hi>
+                  <date>13. <hi>May</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:156686:4"/>
+            <head>His Majeſties Speech.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Have cauſe of adding, not altering, what I meant to ſay. When I gave out the Sum<g ref="char:EOLhyphen"/>mons for this dayes Appearance, I little thought of theſe Meſſengers, or of ſuch a Meſ<g ref="char:EOLhyphen"/>ſage as they brought, the which (becauſe it confirmes Me in what I intend to ſpeake, and that I deſire you ſhould be truly informed of all paſſages between Me and the Parliament) you ſhall here read, Firſt, My Anſwer to the Declaration of both Houſes concerning <hi>Hull;</hi> The Anſwer of the Parliament to My two Meſſages concerning <hi>Hull;</hi> together with My Reply to the ſame; And My Meſſage to both Houſes, declaring the Reaſons why I refuſed to paſſe the Bill concerning the <hi>Militia.</hi>
+            </p>
+            <div type="continuation_of_speech">
+               <head>All which being read his Majeſty proceeded.</head>
+               <p>
+                  <hi>I</hi> Will make no paraphraſes upon what ye have heard, it more befitting a Lawyer then a King; only this Obſervation, Since Treaſon is countenanced ſo neer Me, it is time to looke to My ſafety: I avow it was part of My wonder, That men (whom I thought hertofore, Diſcreet and Moderate) ſhould have undertaken this Imployment; and that ſince they came I having delivered them the Anſwer you have heard, and com<g ref="char:EOLhyphen"/>manded them to returne Perſonally with it to the Parliament) ſhould have flatly diſobeyed Me, upon pretence of the Parlia<g ref="char:EOLhyphen"/>ments Command. My end in telling you this, is to warn you of them; For ſince theſe men have brought Me ſuch a Meſſage and diſobeyed ſo lawfull a Command, I will not ſay what their intent of ſtaying hereis; only I bid you take heed, not knowing what Doctrine of Diſobedience they may preach to you, under colour of obeying the Parliament.</p>
+               <p>Hitherto I have found and kept you quiet, the enioying of which was a cheife cauſe of My coming hither (Tumults and Diſorders having made Me leave the South) and not to make this the Seate of a War, as Malice would (but I hope in vaine)
+<pb n="6" facs="tcp:156686:5"/>
+make you beleeve; Now if Diſturbances doe come, I know whom I have reaſon to ſuſpect.</p>
+               <p>To be ſhort, you ſee that My Magazine is going to be taken away from Me (being My owne proper goods) directly againſt my will: The <hi>Militia</hi> (againſt Law and my conſent) is going be to put in execution: And laſtly, Sir <hi>Iohn Hothams</hi> Treaſon is countenanced: All this conſidered, none can blame me to ap<g ref="char:EOLhyphen"/>prehend Dangers. Therefore I have thought fit (upon theſe re<g ref="char:EOLhyphen"/>all grounds) to tell you, That I am reſolved to have a Guard (the Parliament having had one all this while upon imaginary Iea<g ref="char:EOLhyphen"/>louſies) only to ſecure my Perſon; In which I deſire your con<g ref="char:EOLhyphen"/>currence and aſsiſtance, and that I may be able to protect you, the Lawes, and the true Proteſtant Profeſſion from any Affront or iniury that may be offered, which I mean to Maintaine My Selfe, without charge to the Countrey, intending no longer to keep them on foot, then I ſhall be ſecured of My iuſt Apprehen<g ref="char:EOLhyphen"/>ſions, by having ſatiſfaction in the particulars before menti<g ref="char:EOLhyphen"/>oned.</p>
+            </div>
+         </div>
+         <div type="answer">
+            <pb facs="tcp:156686:5"/>
+            <head>THE ANSWER TO HIS Maieſties Propoſitions, of the Gentle<g ref="char:EOLhyphen"/>men and Freeholders which ſubſcribed the ſame at the Deanes Houſe, where the Sheriffe was.</head>
+            <opener>
+               <salute>May it pleaſe your moſt Sacred Majeſtie.</salute>
+            </opener>
+            <p>THe Propoſitions delivered to us yeſterday from your Majeſtie are of ſo high concernement to the weale and peace of the whole Kingdome, and doth ſo nearely touch upon the affection and fidelitie of all your ſubjects in generall, as we being but a part of one Countie onelie, doe not conceive it ſafe for us to adviſe therein, but rather humblie to beſeech your Maieſtie to impart the grounds of your Maieſties feares and jelocies to your High Court of Parliament (of whole moſt loyall care and affecti<g ref="char:EOLhyphen"/>on to your Mtieſties honour and ſafety, and the proſperity of your Subiects and dominions we are moſt confident) and whatſoever ſhall be adviſed by your great Counſell therein we ſhall moſt willingly embrace and give our concurrence and aſſiſtance to it as ſhall become us, In whoſe fidelity and affection your Maieſtie hath often declared eſpeciall truſt; And albeit wee doe not preſume to adviſe your Majeſtie in that particular being of tranſcendent conſequence, never<g ref="char:EOLhyphen"/>theleſſe in the behalfe of thoſe members of Parliament lately imployed to attend your Maieſtie from both Houſes, being all of them Gentlemen of qualitie and eſtate in this Countie &amp; truſted to ſerve in that moſt Honorable aſſem<g ref="char:EOLhyphen"/>blie; Wee humblie crave your Maieſties leave to expreſſe our Confidence in their unſtained Loyaltie and affection
+<pb facs="tcp:156686:6"/>
+to your Maieſtie to be ſuch as your Maieſtie may ſecu<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> admitt their attendance to negotiate their imployments, untill they be recalled by the Parliament. And for there fi<g ref="char:EOLhyphen"/>delity, wee doe all engage our ſelves to your Majeſtie, and we are moſt aſſured that your Royall perſon ſhall be ſecure in the genarall fidelitie of your <hi>Subiects of this County</hi> without any extraordinarie guard.</p>
+         </div>
+         <div type="answer">
+            <head>His Maieſties Anſwer to this returned by the Sheriffer.</head>
+            <p>HIs Maieſties expects the like affection from you that hee doth from the other Gentlemen, and that he hath the ſame confidence in you, that he hath in the others.</p>
+            <list>
+               <head>The names of thoſe Gentlemen which were taken by the Sheriffe.</head>
+               <item>
+                  <hi>Sir Thomas Fairefax</hi>
+               </item>
+               <item>
+                  <hi>Sir William Conſtable</hi>
+               </item>
+               <item>
+                  <hi>Sir Mathew Boynton</hi>
+               </item>
+               <item>
+                  <hi>Sir Thomas Gower</hi>
+               </item>
+               <item>
+                  <hi>Sir William St. Quintin</hi>
+               </item>
+               <item>
+                  <hi>Sir Edward Rodes</hi>
+               </item>
+               <item>
+                  <hi>Sir William Crayley</hi>
+               </item>
+               <item>
+                  <hi>Sir Thomas Norcliffe</hi>
+               </item>
+               <item>
+                  <hi>Sir Arther Ing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am</hi>
+               </item>
+               <item>
+                  <hi>Sir Richard Darley</hi>
+               </item>
+               <item>
+                  <hi>Sir Iarvis Cutler</hi>
+               </item>
+               <item>
+                  <hi>Sir William Fairefax</hi>
+               </item>
+               <item>
+                  <hi>Sir Hug Bethell</hi>
+               </item>
+               <item>
+                  <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Iohn Savell</hi>
+               </item>
+               <item>
+                  <hi>Sir William <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>yſter</hi>
+               </item>
+               <item>
+                  <hi>Sir Thomas Renington</hi>
+               </item>
+               <item>
+                  <hi>Maſter. Thomas <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>opſon</hi>
+               </item>
+               <item>
+                  <hi>Henry St Qintin</hi>
+               </item>
+               <item>
+                  <hi>Arthur Noell</hi>
+               </item>
+               <item>
+                  <hi>Tobias Ierkins</hi>
+               </item>
+               <item>
+                  <hi>Heney Ienkins</hi>
+               </item>
+               <item>
+                  <hi>Iohn Ferrer</hi>
+               </item>
+               <item>
+                  <hi>Iohn Weſt</hi>
+               </item>
+               <item>
+                  <hi>Henry Atkinſon</hi>
+               </item>
+               <item>
+                  <hi>Henry Wyth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Bethell</hi>
+               </item>
+               <item>
+                  <hi>George Mountaine</hi>
+               </item>
+               <item>
+                  <hi>Thomas Stockdale</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Gower</hi>
+               </item>
+               <item>
+                  <hi>Richard Trewman</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:156686:6"/>
+                  <hi>Sackvill Pope</hi>
+               </item>
+               <item>
+                  <hi>Thomas Heblethwaite</hi>
+               </item>
+               <item>
+                  <hi>George Eure</hi>
+               </item>
+               <item>
+                  <hi>George Marwood</hi>
+               </item>
+               <item>
+                  <hi>Iohn Savile of M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dlee</hi>
+               </item>
+               <item>
+                  <hi>Iohn Saltmarſhe</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Copley</hi>
+               </item>
+               <item>
+                  <hi>Loynell Copley</hi>
+               </item>
+               <item>
+                  <hi>Edward Gower</hi>
+               </item>
+               <item>
+                  <hi>Cuthbert Creake</hi>
+               </item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>illiam Cobb</hi>
+               </item>
+               <item>
+                  <hi>Doyley Gower</hi>
+               </item>
+               <item>
+                  <hi>Thomas Rookebie</hi>
+               </item>
+               <item>
+                  <hi>Iohn Calverley</hi>
+               </item>
+               <item>
+                  <hi>Francis Grimſton</hi>
+               </item>
+               <item>
+                  <hi>Iohn A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>labie</hi>
+               </item>
+               <item>
+                  <hi>Arthur Beckwith</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Waters</hi>
+               </item>
+               <item>
+                  <hi>Mathew Beckwith</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Copley</hi>
+               </item>
+               <item>
+                  <hi>Thomas Croft</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Parker</hi>
+               </item>
+               <item>
+                  <hi>Georg Trotter</hi>
+               </item>
+               <item>
+                  <hi>Henry Weſtbie</hi>
+               </item>
+               <item>
+                  <hi>VVilliam Iemimgs</hi>
+               </item>
+               <item>
+                  <hi>Thomas Bradford</hi>
+               </item>
+               <item>
+                  <hi>Richard VVilbore</hi>
+               </item>
+               <item>
+                  <hi>Iob Hackwod</hi>
+               </item>
+               <item>
+                  <hi>Mathew Allured</hi>
+               </item>
+               <item>
+                  <hi>Robert Sheppard</hi>
+               </item>
+               <item>
+                  <hi>Iohn Ackl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m</hi>
+               </item>
+               <item>
+                  <hi>Iohn Stellington</hi>
+               </item>
+               <item>
+                  <hi>Iervas Hamond</hi>
+               </item>
+               <item>
+                  <hi>Iohn Cholmeley</hi>
+               </item>
+               <item>
+                  <hi>Thomas Newarke</hi>
+               </item>
+               <item>
+                  <hi>Henry Savile</hi>
+               </item>
+               <item>
+                  <hi>Lancelott Allured</hi>
+               </item>
+               <item>
+                  <hi>Iohn Lambert</hi>
+               </item>
+               <item>
+                  <hi>Francis Grimſton</hi>
+               </item>
+               <item>
+                  <hi>Mr. Stephen Quintin</hi>
+               </item>
+               <item>
+                  <hi>VVillobie Godfrey</hi>
+               </item>
+               <item>
+                  <hi>Iohn Stillington</hi>
+               </item>
+               <item>
+                  <hi>Iohn Beverley</hi>
+               </item>
+               <item>
+                  <hi>Mr. Bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nton</hi>
+               </item>
+               <item>
+                  <hi>Georg VVeſtbie</hi>
+               </item>
+               <item>
+                  <hi>Beniamin Browne</hi>
+               </item>
+               <item>
+                  <hi>Charles Fairfax</hi>
+               </item>
+               <item>
+                  <hi>Henry Arthington</hi>
+               </item>
+               <item>
+                  <hi>Henry Tempeſt</hi>
+               </item>
+            </list>
+            <p>Theſe are the names Subſcribed in one ſheete there being many other ſheets filed together all of them Subſcribed, and amongſt them many Gentlmen of note, but I tooke note onely of the firſt ſheete have<g ref="char:EOLhyphen"/>ing no more time.</p>
+         </div>
+         <div type="answer">
+            <pb facs="tcp:156686:7"/>
+            <head>To the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Maieſtie.</head>
+            <p>WE Knights and Gentlemen whoſe names are ſubſcribed doe unanimouſly preſent this our anſwer to your Majeſties propoſitions con<g ref="char:EOLhyphen"/>cerning the raiſing of a Guard of <hi>Horſe</hi> for the ſecurity and defence of your ſacred perſon.</p>
+            <p>To which propoſition we, as we conceive our ſelves bound by Allegiance, doe willingly concurre. For that purpoſe humbly deſiring that the aforeſaid may be raiſed by legall Authority: And likewiſe that it may conſiſt of eprſons un<g ref="char:EOLhyphen"/>queſtionable in their Religion, and Gentlemen.</p>
+            <div type="answer">
+               <head>The ſubſtance of his Maieſties Anſwer.</head>
+               <p>HIs Majeſtie gave them thankes, for it appeared as a ſa<g ref="char:EOLhyphen"/>tisfactorie anſwer, and in it they had ſhewed great cir<g ref="char:EOLhyphen"/>cumſpection and wiſedome, by chuſing ſuch whoſe Loyal<g ref="char:EOLhyphen"/>ties could not be queſtioned, by excluding Recuſants and all ſuſpected to be diſaffected.</p>
+            </div>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156686:7"/>
+            <head>To the Kings Moſt Ewcellent Maieſty The Humble Petition of many thouſands of Your Maieſties peaceably affected Subiects of the Countie of Yorke.</head>
+            <opener>Humbly Sheweth.</opener>
+            <p>THat many of your Peticioners being in their late deſires of petitioning your Maieſty denyed acceſſe, kept back with violence, and receiveing great affronts from ſome that have dependency on your Maieſty and others there aſſembled, yet noe provocation could remove them from their patience, and dutie, which proceedings are taken more to heart, your Petitioners conceiveing it undeniable that they have an Intereſt in the Common-wealth, and are as du<g ref="char:EOLhyphen"/>tifull, and loyall Subiects to your Maieſty as whomſoever though diverſe of them have beene ſince uncivilly preſt by ſome in your Maieſties name to ſubſcribe a paper ſtiled the humble Anſwer to your Maieſties propoſitions, and threatn<g ref="char:EOLhyphen"/>ed thereto upon which blowes followed and that when your Maieſties Army ſhould be on fout thoſe ſhould be firſt pillag<g ref="char:EOLhyphen"/>ed that refuſed ſuch ſubſcription, which we humbly conceive are poſitively contrary to your Maieſties owne expreſſions, and is to the high diſhonour of your Maieſty, and the great affrightment, and diſturbance of your Maieſties leige people. Therefore your Petitioners haveing too iuſt cauſe to feare your Maieſties royall heart is ſtill endaingered to be poſſeſſed with ſome diſtaſte of your Petitioners humbly ſupplicate your Maieſty, to conceive better things of them and to caſt your eye upon the preſent ſtate of this your Kingdome, that as your Maieſty hath often declared your affection to this County, ſo now your love might now be expreſſed in pre<g ref="char:EOLhyphen"/>ſerveing
+<pb facs="tcp:156686:8"/>
+the peace thereof, and that your Maieſty would admitt of a right Information of the cleare intentions of your Petitioners who are confident, that we ſo abſolute, and harty obſervance to your Maieſties iuſt Commands can be demon<g ref="char:EOLhyphen"/>ſtrated as what your Maieſty in Parliament ſhall declare, which if it become devided (as God forbidd) our hearts even tremble to conſider the dangers and dimination of the honour, and ſafety of your Maieſties poſterrity, and King<g ref="char:EOLhyphen"/>doms will unavoydably be put upon ſince it is cleare to every underſtanding, that it is not a devided part of one, or ſeverall Counties that can afford that honour, and ſafety to your Maieſty as the whole Kingdom which you may command, no ground or feare of danger remaining, if a good Confi<g ref="char:EOLhyphen"/>dence were begott betwixt your Maieſty and Parliament, whoſe grave, and loyall Counſells are as we humbly conceive the viſible way under God to put a ſpeedy end to the troubles of Ireland, and eſtabliſh your Throne in righteouſnes. And laſtly your Petitioners do moſt humbly ſupplicate that we may repreſent our unfittnes to become Iudges betwixt your Maieſty and Parliament in any thing, or diſpute the Autho<g ref="char:EOLhyphen"/>rity of either which they humbly conceive doe fortefie each other it being moſt unfitt for them to act any thing therin but by their prayers for a right underſtanding betwene your Maieſty and them which we ſhall heartily do as alſo for your Maieſties long and proſperous Reigne, and as we are bound by our late Proteſtation ſhall be ready to maintaine your Maieſties juſt rights, the Previlidges and power of Parlia<g ref="char:EOLhyphen"/>ment and the lawfull liberties of the Subiects.</p>
+         </div>
+         <div type="answer">
+            <pb facs="tcp:156686:8"/>
+            <head>The Kings Anſwer to the Petition of the Country at the Count at Yorke <hi>May 13. 1642.</hi>
+            </head>
+            <opener>
+               <salute>His Maiestie</salute>
+            </opener>
+            <p>HAueing with ſome care conſidered this Petition, being the firſt of this nature that hath beene preſent<g ref="char:EOLhyphen"/>ed to him wherein any appearing well affected to his ſervice (though he hath heard of many in the Contrary) have milde meaned themſelves, hath commanded me to give you this anſwer.</p>
+            <p>That he doth totally diſcover proceedings complained of in the Petition, and expects that your and all others his Loy<g ref="char:EOLhyphen"/>all Subiects ſhall reſt ſatisfied with his ſeverall Gratious De<g ref="char:EOLhyphen"/>clarat ons and conſtant peaceable practice towards his people to the contrarie, and for further aſſurance upon iuſt proofe made againſt any man who hath committed any uiolence in words or actions (without iuſt provocation) full reparati<g ref="char:EOLhyphen"/>on ſhall bee given to the perties-iniured. As for the reſt of this petition, his Maieſtie ſaith that it is ſo confuſed that hee doth not well know what poſitive Anſwer to give it. And the rather becauſe it is grounded upon miſinformation, both of his Maieſties proceedings and intentions, as in perticuler his Maieſtie ſaith hee never intended to have you to bee iudges betwixt him and his Parliament. And for the other part of this Petition her ferts to his Meſſages, Declarations, and Anſwers, whereby it will clearely appeare that his deſire and intention is onely the preſerueing of the true proteſtant pro<g ref="char:EOLhyphen"/>feſſion, the lawes of the land, the libertie of his people the peace of the Kingdome: And the peace of this Countie in perticuler.</p>
+         </div>
+         <div type="protestation">
+            <pb facs="tcp:156686:9"/>
+            <head>The Proteſtation of Freeholders. <hi>May 13. 1642.</hi>
+            </head>
+            <p>WHereas his Maieſtie hath beene pleaſed to give Sum<g ref="char:EOLhyphen"/>mons to the Gentrie of this County to Attend him at his Court at <hi>York</hi> the Twelft of <hi>May</hi> inſtant, to adviſe with him in ſome perticulars, concerning the honour, and ſafetie of his Maieſties Perſon, and the well being and peace of this our Countie, and in the ſaid ſummons was pleaſed to omitt the Freeholders of this Countie, out of a tender reſpect of putting them to any extraordinarie charge, yet we conſci<g ref="char:EOLhyphen"/>ous of our ſincere loyaltie o his Maieſtie our Gratious So<g ref="char:EOLhyphen"/>veraigne, and conceiueing our ſelves according to the propor<g ref="char:EOLhyphen"/>tions of our eſtates, equally intreſted in the common good of the Countie, did take bouldnes to come in perſon to <hi>York,</hi> and were readie to attend his Maieſties pleaſure there. And whereas his Maieſtie was pleaſed then to propound ſeverall things to the purpoſe aforeſaid, at the meeting of the Coun<g ref="char:EOLhyphen"/>trie, to conſider a fit anſwer to returne to his Maieſtie there<g ref="char:EOLhyphen"/>upon, the doores of the meeting houſe were ſhut againſt us, we utterly excluded, and in our abſence a Referre of Knights and gentlemen choſen without our knowledge or conſent to draw up the ſaid anſwer: We the free-h lders who peti<g ref="char:EOLhyphen"/>tioned his Maieſtie the day aboveſaid, concerneing our ſelves aboundantly iniured in the election (not knowing any war<g ref="char:EOLhyphen"/>rant by writ or otherwiſe for the ſame) of the ſaid Referree, and that we ought not however to be concluded by any reſo<g ref="char:EOLhyphen"/>lution of theirs without our aſſent in their election; doe abſo<g ref="char:EOLhyphen"/>lutely proteſt and declare againſt the ſaid Election: and as farr as conſernes us diſavowe whatſoever ſhall bee the reſult of their conſultation thereupon, and doe deſire, a new and faire election of a Referree may be made, we admitted to our free Votes in the ſame, and ſome one or more to be nominated by us, allowed to deliver our ſence for us at another meeting: And that we ſhall not make good in the leſt reſpect any thing whatſoever which ſhall otherwiſe be concluded upon.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
